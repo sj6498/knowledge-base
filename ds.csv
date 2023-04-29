@@ -1,0 +1,31 @@
+﻿Disease,Headache,backpain,chestpain,cough,fainting,fatigue,sunkeneye,low temperature,restlessness,soreness,fever,nausea,blurred vision
+Jaundice,no,no,no,no,no,no,yes,no,no,yes,no,yes,no
+Alzheimers,no,no,no,no,no,no,no,yes,no,no,no,no,no
+Arthritis,no,yes,no,no,no,no,yes,no,no,no,no,no,no
+Tuberculosis,no,no,yes,yes,no,no,no,no,no,yes,no,no,no
+Asthma,no,no,yes,yes,no,no,no,yes,no,no,no,no,no
+Sinusitis,yes,no,no,yes,no,yes,no,no,no,yes,no,no,no
+Epilepsy,no,no,no,no,no,no,yes,no,no,no,no,no,no
+Heart Disease,no,no,no,yes,no,no,yes,no,no,no,no,yes,yes
+Diabetes,yes,no,no,no,yes,no,yes,yes,no,yes,no,yes,yes
+Glaucoma,no,no,no,no,no,no,yes,no,no,no,no,yes,yes
+Hyperthyroidism,no,no,no,no,yes,no,no,no,yes,no,no,no,no
+Heat Stroke,no,no,no,no,no,no,no,no,no,yes,no,yes,no
+Hypothermia,no,no,no,no,yes,no,no,no,yes,no,no,no,no
+Chickenpox,yes,no,no,yes,no,yes,yes,no,no,no,yes,yes,no
+Zika Virus,no,no,no,no,no,no,no,no,no,no,no,no,no
+Dengue,yes,no,no,no,yes,no,yes,yes,no,yes,no,yes,yes
+Shingles,yes,no,yes,no,no,yes,yes,no,no,no,no,no,no
+IBS,no,no,no,no,no,no,yes,yes,no,no,no,no,no
+Measles,yes,no,no,yes,no,yes,yes,yes,no,yes,yes,no,no
+Malaria,yes,no,no,no,yes,no,yes,yes,no,no,no,yes,yes
+Acid Reflux,no,no,yes,no,no,no,yes,no,no,no,no,no,no
+UTI,yes,yes,no,no,no,no,no,no,no,yes,no,yes,no
+Gastroenteritis,no,no,no,yes,no,no,yes,no,no,no,no,yes,yes
+Bronchitis,no,no,yes,yes,no,no,no,yes,no,no,no,no,no
+Pneumothorax,no,yes,yes,no,yes,no,no,no,no,no,no,no,no
+Covid 19,yes,no,no,yes,no,yes,yes,no,no,yes,no,yes,no
+Pneumonia,yes,yes,yes,yes,yes,no,yes,no,yes,yes,yes,yes,yes
+Influenza,no,no,yes,yes,no,yes,yes,no,no,yes,yes,yes,yes
+Common Cold,yes,no,no,yes,no,yes,yes,no,no,yes,no,yes,no
+Migraine,yes,yes,no,no,no,no,yes,yes,no,yes,no,yes,yes
